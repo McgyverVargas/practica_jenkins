@@ -1,0 +1,5 @@
+go run variables.go
+go build variables.go
+
+fmt.Scanf("%v\n",&name) para caracteres
+fmt.Scanf("%d\n",&edad) para enteros
